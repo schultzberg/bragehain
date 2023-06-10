@@ -17,6 +17,7 @@ h1 {
     font-weight: 800;
     text-transform: uppercase;
     animation: pulse 1.8s infinite;
+    cursor: pointer;
 }
 
 @keyframes pulse {
